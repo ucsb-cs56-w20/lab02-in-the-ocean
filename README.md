@@ -1,18 +1,11 @@
-# STARTER-lab02
+# lab02-in-the-ocean
 
-* TODO: Change the title of this README in the text `# STARTER-lab02` above
-  to match the name of your repo, i. e., `lab02-yourgithubid`, then delete
-  this TODO item.
-
-* TODO: Correct the links to the javadoc and repo below, then delete this TODO
-
-Javadoc: https://ucsb-cs56-w20.github.io/STARTER-lab02
-Repo: https://ucsb-cs56-w20/STARTER-lab02
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-in-the-ocean/
+Repo: https://github.com/ucsb-cs56-w20/lab02-in-the-ocean
 
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
-
 
 # Sources
 
